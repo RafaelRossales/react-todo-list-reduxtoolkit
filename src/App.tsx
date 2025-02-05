@@ -19,7 +19,6 @@ import ItemList from "./components/item-list";
 import Filters from "./components/filters";
 import InputItem from "./components/input-item";
 import useStyles from "./styles/styles";
-import ListLiItem from "./components/list-li-item";
 
 export default function App() {
   const dispatch = useDispatch<AppDispatch>();
